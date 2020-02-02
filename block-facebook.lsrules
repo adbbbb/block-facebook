@@ -3,6 +3,8 @@
     {
       "owner": "me",
       "action": "deny",
+      "process": "any",
+      "priority": "high",
       "modificationDate": 1523958045.040515,
       "creationDate": 1523957951.22992,
       "remote-domains": [
@@ -1445,9 +1447,7 @@
         "z-p3-video.flpb1-1.fna.fbcdn.net",
         "z-p3-video.fpfb1-1.fna.fbcdn.net",
         "z-p3-video.fsea1-1.fna.fbcdn.net"
-      ],
-      "process": "any",
-      "priority": "high"
+      ]
     }
   ],
   "name": "block facebook",
